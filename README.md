@@ -7,3 +7,5 @@ each folder contains different realisations of Philosophers objective:
   - philo_bonus is realised with semaphors
   
 each task compiles with Makefile
+
+# Project objective located in en.subject file
